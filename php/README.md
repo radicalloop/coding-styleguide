@@ -1,6 +1,6 @@
 # PHP Coding Styleguide
 
-We follow following coding style guide, and PSR-2 coding style guide (https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+We follow following coding style guide, based on PSR-2 coding style guide (https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 
 Check <a href="https://github.com/radicalloop/coding-styleguide/blob/master/php/sample.php">sample.php</a> here.
 
