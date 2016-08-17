@@ -1,6 +1,8 @@
 # PHP Coding Styleguide
 
-We follow following coding style guide. Check <a href="https://github.com/radicalloop/coding-styleguide/blob/master/php/sample.php">sample.php</a> here.
+We follow following coding style guide, and PSR-2 coding style guide (https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+
+Check <a href="https://github.com/radicalloop/coding-styleguide/blob/master/php/sample.php">sample.php</a> here.
 
 - **PHP Tags**: Short tags are never allowed. PHP code must always be delimited by the full-form, standard PHP tags:
 
@@ -139,8 +141,6 @@ We follow following coding style guide. Check <a href="https://github.com/radica
     use OtherVendor\OtherPackage\BazClass;
     
     ```
-- **We follow PSR-2 coding style guide** 
-    Checkout here: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 
 - **Sublime Editor Configuration**
 
