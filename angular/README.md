@@ -1,12 +1,8 @@
 # AngularJS styleguide
 
+Sourced from : 
+
 *Opinionated AngularJS styleguide for teams by [@toddmotto](//twitter.com/toddmotto)*
-
-A standardised approach for developing AngularJS applications in teams. This styleguide touches on concepts, syntax, conventions and is based on my experience [writing](http:////toddmotto.com) about, [talking](https://speakerdeck.com/toddmotto) about, and building Angular applications.
-
-#### Community
-[John Papa](//twitter.com/John_Papa) and I have discussed in-depth styling patterns for Angular and as such have both released separate styleguides. Thanks to those discussions, I've learned some great tips from John that have helped shape this guide. We've both created our own take on a styleguide. I urge you to [check his out](//github.com/johnpapa/angularjs-styleguide) to compare thoughts.
-
 > See the [original article](http://toddmotto.com/opinionated-angular-js-styleguide-for-teams) that sparked this off
 
 ## Table of Contents
@@ -743,33 +739,4 @@ A standardised approach for developing AngularJS applications in teams. This sty
 **[Back to top](#table-of-contents)**
 
 ## Angular docs
-For anything else, including API reference, check the [Angular documentation](//docs.angularjs.org/api).
-
-## Contributing
-
-Open an issue first to discuss potential changes/additions.
-
-## License
-
-#### (The MIT License)
-
-Copyright (c) 2015 Todd Motto
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+[Angular documentation](//docs.angularjs.org/api).
