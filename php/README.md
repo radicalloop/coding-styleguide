@@ -1,6 +1,6 @@
 # PHP Coding Styleguide
 
-We are following below coding style guide.
+We are following below coding style guide. Check <a href="https://github.com/radicalloop/coding-styleguide/blob/master/php/sample.php">sample.php</a> here.
 
 - **PHP Tags**: Short tags are never allowed. PHP code must always be delimited by the full-form, standard PHP tags:
 
