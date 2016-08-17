@@ -1,6 +1,6 @@
 # PHP Coding Styleguide
 
-We are following below coding style guide. Check <a href="https://github.com/radicalloop/coding-styleguide/blob/master/php/sample.php">sample.php</a> here.
+We follow following coding style guide. Check <a href="https://github.com/radicalloop/coding-styleguide/blob/master/php/sample.php">sample.php</a> here.
 
 - **PHP Tags**: Short tags are never allowed. PHP code must always be delimited by the full-form, standard PHP tags:
 
@@ -23,7 +23,7 @@ We are following below coding style guide. Check <a href="https://github.com/rad
     }
     ```
 
-- **String**: Always write string in single quotes unless string has variable 
+- **String**: Always write string in single quotes unless string has a variable 
    
     ```php
     $str = 'This is string';
@@ -127,8 +127,8 @@ We are following below coding style guide. Check <a href="https://github.com/rad
     ```
 
 - **Namespace and use Declarations**
-    There MUST be one blank line after the namespace declaration.
-    There MUST be one blank line after the use block.
+    There must be one blank line after the namespace declaration.
+    There must be one blank line after the use block.
 
     ```php
     <?php
