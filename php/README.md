@@ -139,7 +139,7 @@ We follow following coding style guide. Check <a href="https://github.com/radica
     use OtherVendor\OtherPackage\BazClass;
     
     ```
-- **We are following PSR-2 coding style guide** 
+- **We follow PSR-2 coding style guide** 
     Checkout here: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 
 - **Sublime Editor Configuration**
